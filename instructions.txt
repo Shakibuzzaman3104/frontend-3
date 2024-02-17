@@ -1,1 +1,5 @@
+Submission from Kazi khaledur Rahman
 
+At first run "npm i" command in terminal to install node modulus
+
+Then use "npm run dev" command to get started
